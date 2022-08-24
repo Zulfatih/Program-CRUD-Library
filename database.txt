@@ -1,0 +1,4 @@
+fiersabesari_2012_1,2012,fiersa besari,media kita,jejak langkah
+pramoedyaAnantatoer_2001_1,2001,Pramoedya Anantatoer,Gramedia,Bumi Manusia
+zulfatih_2022_2,2022,zulfatih,kompas,Java OOP
+Ujang_2005_1,2005,Ujang,kuklu,Karung beras
